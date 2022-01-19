@@ -9,10 +9,10 @@
     "express-history-api-fallback": "^2.2.1",
     "express-http-proxy": "^1.0.4",
     "lodash": "^4.17.4",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-router-dom": "^4.1.1",
-    "styled-components": "^1.4.5"
+    "styled-components": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
